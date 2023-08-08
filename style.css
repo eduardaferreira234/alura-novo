@@ -20,7 +20,7 @@ body{
     background-image:url("./img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
-}
+}   aling-items
 .container{
     height: 100vh;
     display: grid;
@@ -29,10 +29,11 @@ body{
 .container__botao{
     background-color: var(--botao-azul);
     border-radius: 5px;
-padding: 1em;
-color: var(--branco-pricipal);
-display: block;
-text-decoration: none;
+    padding: 1em;
+    color: var(--branco-pricipal);
+    display: block;
+    text-decoration: none;
+    margin-bottom: 1em;
 }
 .botao_secundario{
     background-color: transparent;
@@ -50,4 +51,7 @@ text-decoration: none;
 .container__imagem{
     margin: 1em 0 2em 0;
 }
-123
+
+.conteiner__caixa{
+    margin: 0 6em;
+}
