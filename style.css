@@ -20,7 +20,9 @@ body{
     background-image:url("./img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
-}   aling-items
+    align-items: center;
+}
+
 .container{
     height: 100vh;
     display: grid;
