@@ -90,7 +90,10 @@ body{
 .dispositivos__lista{
     display: flex;
     justify-content: center;
+    list-style-type: none;
+    margin: 5em 0;
 }
+
 
 .dispositivos{
     text-align: center;
