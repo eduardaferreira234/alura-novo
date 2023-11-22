@@ -109,3 +109,19 @@ body{
     font-size: 32px;
     color:var(--branco-pricipal);
 }
+
+.rodape{
+    text-align: center;
+}
+
+.rodape__lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 1em 0;
+    text-decoration: none;
+}
+
+.lista__link{
+    
+}
